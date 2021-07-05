@@ -2,6 +2,7 @@
 *Dorami's Community Server UnbelivaBoat economy AutoHotKey scripts*
 
 There are some simple AHK scripts i made for dcs's economy bot because i was bored to type the same shid over and over again.
+https://discord.gg/BZsdhNzumg (*temporary membership invite*)
 
 You can download the zip file and run one of the compiled scripts in \exefiles by clicking on the discord's textbar and then pressing "0" on your keyboard.
 
