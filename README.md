@@ -1,5 +1,5 @@
 # DCS-UB-e-AHK-scripts
-*(DISCONTINUED)*
+*(PRIVATED)*
 *Use at your own risk, if you get exposed/caught on the server botting economy mods will punish you.*
 
 *Dorami's Community Server UnbelivaBoat economy AutoHotkey scripts*
