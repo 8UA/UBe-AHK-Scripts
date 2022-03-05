@@ -10,8 +10,8 @@ Esc::
     Loop, {
 
     Random, KeyDelay, 200, 350 ; Kinda humanized typing speed
-    Random, WorkSleepDelay, 32000, 60000 ; 32 seconds to 1 minute
-    Random, EndSleepDelay, 4000, 30000 ; 4 to 30 seconds
+    Random, WorkSleepDelay, 4000, 6000 ; 4 to 6 seconds
+    Random, EndSleepDelay, 32000, 180000 ; 32 seconds to 3 minutes
 
         SetKeyDelay %KeyDelay%
 
