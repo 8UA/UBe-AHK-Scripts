@@ -1,3 +1,0 @@
-# GUISounds
-
-Sound effect files.
