@@ -9,7 +9,7 @@ There are some simple AHK scripts i made for a discord economy bot because i was
 ###### NEW GUIDE
 
 > Download the zip file and execute ``main.ahk``.<br>
-``Press 0 to start the script and ESC to stop it.``
+``You can press ESC or close the window to stop the script.``
 
 ###### (GUIDE FOR OLD DIR)
 
